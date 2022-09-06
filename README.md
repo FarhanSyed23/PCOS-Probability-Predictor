@@ -5,6 +5,6 @@ Built With: Python 3.8, PyQT5, Tkinter.
 
 This PCOS Probability Predictor Software Tool is built by [Syed Mohd. Farhan](https://github.com/FarhanSyed23)
 
-# Screenshots
+## Screenshots
 
 https://github.com/FarhanSyed23/PCOS-Probability-Predictor/blob/main/Screenshots/Splash%20Screen.png
