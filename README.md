@@ -8,6 +8,7 @@ This PCOS Probability Predictor Software Tool is built by [Syed Mohd. Farhan](ht
 ## Screenshots
 
 <p align="center">
-![lll](https://github.com/FarhanSyed23/PCOS-Probability-Predictor/blob/main/Screenshots/Splash%20Screen.png)
+  
+    ![Splash Screen](https://github.com/FarhanSyed23/PCOS-Probability-Predictor/blob/main/Screenshots/Splash%20Screen.png)
 
 </p>
