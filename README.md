@@ -1,6 +1,10 @@
 # PCOS-Probability-Predictor
 This is a GUI to show the probabilty of a patient being affected with PCOS or not. 
 
+log_software is a Machine learning model made of Logistic Regression Classifier which helps the software to predict PCOS.
+
+Run main python file, it will first start the splash screen and then eventually the GUI will appear where you can input the data and can see if a patient has PCOS or not.
+
 Built With: Python 3.8, PyQT5, Tkinter.
 
 <sub>This PCOS Probability Predictor Software Tool is built by [Syed Mohd. Farhan](https://github.com/FarhanSyed23)</sub>
